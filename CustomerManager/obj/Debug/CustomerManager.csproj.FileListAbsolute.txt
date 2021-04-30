@@ -1,0 +1,7 @@
+C:\Users\xuqin\source\repos\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csprojAssemblyReference.cache
+C:\Users\xuqin\source\repos\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+C:\Users\xuqin\source\repos\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+C:\Users\xuqin\source\repos\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+C:\Users\xuqin\source\repos\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+C:\Users\xuqin\source\repos\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+C:\Users\xuqin\source\repos\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
